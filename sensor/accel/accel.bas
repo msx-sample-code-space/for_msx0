@@ -1,0 +1,5 @@
+100 DEFINTA-Z
+110 SCREEN0:WIDTH40
+120 _IOTGET("host/accel/x",X):_IOTGET("host/accel/y",Y):_IOTGET("host/accel/z",Z)
+130 PRINT"ACCEL:";X;Y;Z
+140 GOTO 120

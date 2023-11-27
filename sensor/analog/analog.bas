@@ -1,0 +1,7 @@
+100 DEFINTA-Z
+110 SCREEN0:WIDTH40
+120 _IOTGET("sample/analog",A)
+130 _IOTGET("sample/prm1",P1)
+140 _IOTGET("sample/prm2",P2)
+150 PRINT A;P1;P2
+160 GOTO 120
