@@ -12,7 +12,6 @@ _IOTGET("device/analog/in",A):PRINT A
 - [M5_ANGLE.BAS](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/M5ANGLE/M5_ANGLE.BAS)
 
 
-
 ### 製品情報
 - M5 ANGLE 
 - SKU:U005
