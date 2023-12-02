@@ -4,7 +4,7 @@ MSX0でJSONデータを受信してBASICで使用するサンプルです。
 Link:https://github.com/IKATEN-X/JSONReceiveSample_forMSX0
 
 MSX0のHTTP通信のサンプルをベースに、JSONを受信するようにしています。  
-JSONデータの解析と値の取得は、[MSX JSON Parser](https://github.com/ricbit/msxjson)を利用していて、その中のJSON.BINが必要となります。  
+JSONデータの解析と値の取得は、[MSX JSON Parser](https://github.com/ricbit/msxjson )を利用していて、その中のJSON.BINが必要となります。  
 
 JSON.BINが&HD000から配置されます。  
 Parserがデータを解析するための格納アドレスを&H9000としています。  
