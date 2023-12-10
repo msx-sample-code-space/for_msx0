@@ -48,7 +48,7 @@ LCD_ENTRYSHIFTDECREMENT  0x00	//文字出力後カーソルを右方向に移動
 // flags for display on/off control
 // LCD_DISPLAYCONTROL(&H08)と各ビットを加算して使用
 LCD_DISPLAYON    0x04	//画面表示
-LCD_DISPLAYOFF   0x00	//画面非表示(出力済文字列のデータ消えない)
+LCD_DISPLAYOFF   0x00	//画面非表示(出力済の文字列データは残る)
 LCD_CURSORON     0x02	//カーソル'_'が表示される
 LCD_CURSOROFF    0x00	//カーソル非表示
 LCD_BLINKON      0x01	//カーソル位置が反転表示で点滅する
@@ -98,8 +98,8 @@ LCD_5x8DOTS   0x00
 ※RGBの値：R=0～255,G=0～255,B=0～255
 
 1) CHR$(&H06)+CHR$(R)	//赤色の値
-2) CHR$(&H07)+CHR$(G)	//赤色の値
-3) CHR$(&H08)+CHR$(B)	//赤色の値
+2) CHR$(&H07)+CHR$(G)	//緑色の値
+3) CHR$(&H08)+CHR$(B)	//青色の値
 
 
 ■参考
