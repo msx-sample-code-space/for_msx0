@@ -10,8 +10,7 @@ I2Cの制御(PORT.A)で、Buttonの状態の取得と表示、Encoderの値の�
 + 左へ回す：左のLEDを緑に点灯する
 
 ### BASICプログラム
-- [M5U_ENC.BAS](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/M5Unit-Encoder/M5U_ENC.BAS)
-
+- [M5ENC.BAS](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/M5Unit-Encoder/M5ENC.BAS)
 
 ### 製品情報
 - M5 Unit Encoder
