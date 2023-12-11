@@ -9,7 +9,7 @@ PORT.B(ANALOG)の取得と表示を行います。
 _IOTGET("device/analog/in",A):PRINT A
 ```
 ### BASICプログラム
-- [M5_ANGLE.BAS](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/M5Unit-ANGLE/M5_ANGLE.BAS)
+- [M5ANGLE.BAS](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/M5Unit-ANGLE/M5ANGLE.BAS)
 
 
 
