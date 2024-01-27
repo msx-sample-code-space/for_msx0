@@ -3,6 +3,11 @@ MSX IoT BASICを使用し、Grove-LCD RGB Backlight V5.0というLCDモジュー
 データシートを確認すればわかる内容ですが、主に使いそうな部分を日本語でメモしましたので、ここに共有します。
 実際に使用する際は「■初期化」セクションから読んで頂ければ十分かと思います。
 
+■サンプルプログラム
+サンプルプログラムを公開しました。
+このプログラムを流用することで、Grove-LCD RGB Backlight V5.0が使えるようになると思います。
+https://github.com/NasubiKT/Grove-LCD_RGB_Backlight_V5.0
+
 ■Grove-LCD RGB Backlight V5.0
 2行16桁の文字を表示できるLCDモジュール。
 バックライトは、RGBそれぞれ0～255の値が設定できる。
