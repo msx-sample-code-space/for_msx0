@@ -1,4 +1,8 @@
+Link:
 [https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/MSX0Stack-VibrationMotor](https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/MSX0Stack-VibrationMotor)
+
+.dsk:
+[https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk)
 ## MSX0Stackの内蔵振動モーターの動作確認用プログラムです。
 
 内蔵振動モーターを2秒間振動させます。
