@@ -1,5 +1,8 @@
 Link:
 [https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/M5Unit-Encoder](https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/M5Unit-Encoder)
+
+.dsk:
+[https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk)
 ## M5 Unit Encoderの動作確認用プログラムです。
 
 I2Cの制御(PORT.A)で、Buttonの状態の取得と表示、Encoderの値の取得と表示、
