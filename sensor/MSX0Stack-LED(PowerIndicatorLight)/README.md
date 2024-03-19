@@ -1,5 +1,8 @@
 Link:
 [https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/MSX0Stack-LED(PowerIndicatorLight)](https://github.com/Ninune-wa/MSX0-Sensor-Utility/tree/main/MSX0Stack-LED(PowerIndicatorLight))
+
+.dsk:
+[https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk](https://github.com/Ninune-wa/MSX0-Sensor-Utility/blob/main/MSX0-Sensor-Utility.dsk)
 ## MSX0StackのPower Indicator Light(Green LED)の動作確認用プログラムです。
 
 0.5秒間隔でLEDを点灯/消灯します。
